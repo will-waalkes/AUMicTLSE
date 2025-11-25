@@ -1,2 +1,2 @@
 # AU_Mic_TLSE
-Notebooks and things to accompany Waalkes+ 2023 (in prep)
+Notebooks developed in the process of this publication
